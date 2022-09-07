@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Srgr0's GitHub stats](https://github-readme-stats-srgr0.vercel.app/api?username=Srgr0&count_private=true&show_icons=true)
+![Srgr0's GitHub stats](https://grs-srgr0.vercel.app/api?username=Srgr0&count_private=true&show_icons=true)
 
 ### Contacts
 - [Srgr0](https://github.com/Srgr0) on GitHub
