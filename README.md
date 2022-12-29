@@ -13,3 +13,4 @@
 - [Srgr0](https://cluster.mu/u/Srgr0) on Cluster
 - [Srgr0#6443](https://discordapp.com/users/958373877518585856) on Discord
 - [Srgr0](https://huggingface.co/srgr0) on Hugging Face
+- [Srgr0](https://g.dev/srgr0) on Google Developers
