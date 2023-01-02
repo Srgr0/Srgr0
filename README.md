@@ -14,3 +14,6 @@
 - [Srgr0#6443](https://discordapp.com/users/958373877518585856) on Discord
 - [Srgr0](https://huggingface.co/srgr0) on Hugging Face
 - [Srgr0](https://g.dev/srgr0) on Google Developers
+- [Srgr0](https://crowdin.com/profile/srgr0) on Crowdin
+- [srgr0](https://en.gravatar.com/srgr0) on Gravatar
+- [Srgr0](https://gitlab.com/Srgr0) on GitLab
