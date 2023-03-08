@@ -11,7 +11,7 @@
 - [Srgr0](https://note.com/srgr0/) on note (s)
 - [srgr0](https://vrchat.com/home/user/usr_203352c3-2610-4232-9a62-f262c6a03574) on VRChat (o)
 - [Srgr0](https://cluster.mu/u/Srgr0) on Cluster (g)
-- [Srgr0#6443](https://discordapp.com/users/958373877518585856) on Discord (o)
+- [Srgr0#6443](https://discordapp.com/users/958373877518585856) on Discord (s)
 - [Srgr0](https://huggingface.co/srgr0) on Hugging Face (o)
 - [Srgr0](https://g.dev/srgr0) on Google Developers (g)
 - [Srgr0](https://crowdin.com/profile/srgr0) on Crowdin
