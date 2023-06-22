@@ -8,7 +8,7 @@ If my github status widget above did not loaded correctly, please reload this pa
 - [Srgr0](https://github.com/Srgr0) on GitHub
 - [srgr0](https://zenn.dev/srgr0) on Zenn
 - [@_Srgr0](https://twitter.com/_Srgr0) on Twitter
-- [Srgr0#6443](https://discordapp.com/users/958373877518585856) on Discord
+- [srgr0](https://discordapp.com/users/958373877518585856) on Discord
 - [Srgr0](https://cluster.mu/u/Srgr0) on Cluster
 - [Srgr0](https://crowdin.com/profile/srgr0) on Crowdin
 - [Srgr0](https://gitlab.com/Srgr0) on GitLab
