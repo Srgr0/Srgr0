@@ -21,6 +21,5 @@ If my github status widget above did not loaded correctly, please reload this pa
 - [Srgr0](https://note.com/srgr0/) on note
 - [srgr0](https://vrchat.com/home/user/usr_203352c3-2610-4232-9a62-f262c6a03574) on VRChat
 
-
-
-
+### Domains
+- srgr0.com (include sub-domains)
