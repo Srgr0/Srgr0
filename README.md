@@ -4,7 +4,7 @@
 
 If my github status widget above did not loaded correctly, please reload this page.
 
-### Contacts
+### Social
 - [Srgr0](https://github.com/Srgr0) on GitHub
 - [srgr0](https://zenn.dev/srgr0) on Zenn
 - [@_Srgr0](https://twitter.com/_Srgr0) on Twitter
@@ -21,5 +21,8 @@ If my github status widget above did not loaded correctly, please reload this pa
 - [Srgr0](https://note.com/srgr0/) on note
 - [srgr0](https://vrchat.com/home/user/usr_203352c3-2610-4232-9a62-f262c6a03574) on VRChat
 
-### Domains
+### Domain
 - srgr0.com (include sub-domains)
+
+### Contact
+I accept inquiries via e-mail. Please check the contact email address using [this form](https://awcm.srgr0.com).
