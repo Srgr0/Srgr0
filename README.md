@@ -15,6 +15,7 @@ If my github status widget above did not loaded correctly, please reload this pa
   - [Srgr0](https://submarin.online/@srgr0) on submarin.online
   - [Srgr0](https://nijimiss.moe/@srgr0) on nijimiss.moe
   - [Srgr0](https://misskey.yukineko.me/@srgr0) on misskey.yukineko.me
+  - [Srgr0](https://misskey.sda1.net/@srgr0) on misskey.sda1.net
 - [srgr0](https://discordapp.com/users/958373877518585856) on Discord
 - [@_Srgr0](https://twitter.com/_Srgr0) on Twitter
 - [Srgr0](https://cluster.mu/u/Srgr0) on Cluster
