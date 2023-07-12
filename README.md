@@ -9,7 +9,14 @@ If my github status widget above did not loaded correctly, please reload this pa
 - [srgr0](https://zenn.dev/srgr0) on Zenn
 - [@_Srgr0](https://twitter.com/_Srgr0) on Twitter
 - [srgr0](https://discordapp.com/users/958373877518585856) on Discord
-- [Srgr0](https://misskey.io/@srgr0) on misskey.io
+- misskey
+  - [Srgr0](https://misskey.srgr0.com/@srgr0) on misskey.srgr0.com
+  - [Srgr0](https://misskey.io/@srgr0) on misskey.io
+  - [srgr0](https://misskey.dev/@srgr0) on misskey.dev
+  - [Srgr0](https://voskey.icalo.net/@srgr0) on voskey.icalo.net
+  - [Srgr0](https://submarin.online/@srgr0) on submarin.online
+  - [Srgr0](https://nijimiss.moe/@srgr0) on nijimiss.moe
+  - [Srgr0](https://misskey.yukineko.me/@srgr0) on misskey.yukineko.me
 - [Srgr0](https://cluster.mu/u/Srgr0) on Cluster
 - [Srgr0](https://crowdin.com/profile/srgr0) on Crowdin
 - [Srgr0](https://gitlab.com/Srgr0) on GitLab
