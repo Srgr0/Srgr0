@@ -8,7 +8,7 @@ If my github status widget above did not loaded correctly, please reload this pa
 - [Srgr0](https://github.com/Srgr0) on GitHub
 - [srgr0](https://zenn.dev/srgr0) on Zenn
 - misskey
-  - [Srgr0](https://misskey.srgr0.com/@srgr0) on misskey.srgr0.com
+  - [Srgr0](https://misskey.srgr0.com/@srgr0) on misskey.srgr0.com (main)
   - [Srgr0](https://misskey.io/@srgr0) on misskey.io
   - [srgr0](https://misskey.dev/@srgr0) on misskey.dev
   - [Srgr0](https://voskey.icalo.net/@srgr0) on voskey.icalo.net
@@ -16,6 +16,7 @@ If my github status widget above did not loaded correctly, please reload this pa
   - [Srgr0](https://nijimiss.moe/@srgr0) on nijimiss.moe
   - [Srgr0](https://misskey.yukineko.me/@srgr0) on misskey.yukineko.me
   - [Srgr0](https://misskey.sda1.net/@srgr0) on misskey.sda1.net
+  - [Srgr0](https://mi.mashiro.site/@srgr0) on mi.mashiro.site
 - [srgr0](https://discordapp.com/users/958373877518585856) on Discord
 - [@_Srgr0](https://twitter.com/_Srgr0) on Twitter
 - [Srgr0](https://cluster.mu/u/Srgr0) on Cluster
