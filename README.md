@@ -23,6 +23,7 @@ If my github status widget above did not loaded correctly, please reload this pa
 - [Srgr0](https://cluster.mu/u/Srgr0) on Cluster
 - [Srgr0](https://crowdin.com/profile/srgr0) on Crowdin
 - [Srgr0](https://gitlab.com/Srgr0) on GitLab
+- [srgr0](https://hackerone.com/srgr0) on HackerOne
 - [Srgr0](https://g.dev/srgr0) on Google Developers
 - [srgr0](https://en.gravatar.com/srgr0) on Gravatar
 - [Srgr0](https://qiita.com/Srgr0) on Qiita
