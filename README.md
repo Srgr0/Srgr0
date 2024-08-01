@@ -8,7 +8,6 @@ If my github status widget above did not loaded correctly, please reload this pa
 - [Srgr0](https://github.com/Srgr0) on GitHub
 - [srgr0](https://zenn.dev/srgr0) on Zenn
 - misskey
-  - [Srgr0](https://misskey.srgr0.com/@srgr0) on misskey.srgr0.com (my personal instance, [instance info](https://github.com/Srgr0/misskey-srgr0-com/blob/main/info.md))
   - [Srgr0](https://misskey.io/@srgr0) on misskey.io
   - [srgr0](https://misskey.dev/@srgr0) on misskey.dev
   - [Srgr0](https://voskey.icalo.net/@srgr0) on voskey.icalo.net
