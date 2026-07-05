@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Srgr0's GitHub stats](https://github-readme-stats-flame-two-46.vercel.app/api?username=Srgr0&count_private=true&include_all_commits=false&show_icons=true)
+![Srgr0's GitHub stats](https://github-stats-extended.vercel.app/api?username=Srgr0&count_private=true&include_all_commits=false&show_icons=true)
 
 If my github status widget above did not loaded correctly, please reload this page.
 
